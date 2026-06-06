@@ -11,7 +11,7 @@ I'm always learning and improving my skills, aiming to build real-world projects
 Open to collaboration and new challenges.
 </p>
 <hr>
-<p>Skills:</p>
+<h2>Skills:</h2>
 <img src="https://github.com/vLucqy/vLucqy/blob/main/assets/skills.png?raw=true">
 <hr>
 <img src="https://github.com/vLucqy/vLucqy/blob/main/assets/line-qoute.png?raw=true">
