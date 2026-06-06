@@ -13,12 +13,14 @@ Open to collaboration and new challenges.
 <hr>
 <h2>Skills:</p>
   <ul>
-    <li>
-      I'm learning discord.js for bot developement in discord
-    </li>
-    <li>
-      I develope my web application with react.js or next.js with typescript
-    </li>
+    <p>
+      <li>
+        I'm learning discord.js for bot developement in discord
+      </li>
+      <li>
+        I develope my web application with react.js or next.js with typescript
+      </li>
+    </p>
   </ul>
   <img src="https://github.com/vLucqy/vLucqy/blob/main/assets/skills.png?raw=true">
 <hr>
