@@ -11,17 +11,7 @@ I'm always learning and improving my skills, aiming to build real-world projects
 Open to collaboration and new challenges.
 </p>
 <hr>
-<h2>Skills:</p>
-  <ul>
-    <p>
-      <li>
-        I'm learning discord.js for bot developement in discord
-      </li>
-      <li>
-        I develope my web application with react.js or next.js with typescript
-      </li>
-    </p>
-  </ul>
+<h2>Skills:</h2>
   <img src="https://github.com/vLucqy/vLucqy/blob/main/assets/skills.png?raw=true">
 <hr>
 <img src="https://github.com/vLucqy/vLucqy/blob/main/assets/line-qoute.png?raw=true">
