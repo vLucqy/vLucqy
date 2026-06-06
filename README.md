@@ -1,5 +1,5 @@
 <img src="https://github.com/vLucqy/vLucqy/blob/main/assets/line.png?raw=true"/>
-<hr>
+<h2>Introduction:</h2>
 <p>I'm Hossein aka vLucqy, a full-stack developer from Iran.
 
 I started programming in 2025 and work on both frontend and backend equally. I enjoy building complete web applications, from designing user interfaces to developing server-side logic and database systems.
@@ -11,7 +11,7 @@ I'm always learning and improving my skills, aiming to build real-world projects
 Open to collaboration and new challenges.
 </p>
 <hr>
-<h2>Skills:</h2>
+<h2>Skills:</p>
 <img src="https://github.com/vLucqy/vLucqy/blob/main/assets/skills.png?raw=true">
 <hr>
 <img src="https://github.com/vLucqy/vLucqy/blob/main/assets/line-qoute.png?raw=true">
